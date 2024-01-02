@@ -23,11 +23,12 @@ body{
 .slider-wrapper{
   position: relative;
   margin: 0 auto;
-  max-width: 48rem;
+  max-width: 48rem; 
+  max-height: 600px;
 }
 
 .slider{
-  max-height: 600px;
+
   display: flex;
   aspect-ratio: 16 / 9;
   overflow-x: auto;
