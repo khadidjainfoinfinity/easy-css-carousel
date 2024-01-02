@@ -27,7 +27,7 @@ body{
 }
 
 .slider{
-  max-height: 96vh;
+  max-height: 90vh;
   display: flex;
   aspect-ratio: 16 / 9;
   overflow-x: auto;
